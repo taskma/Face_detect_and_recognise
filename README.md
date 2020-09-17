@@ -1,2 +1,3 @@
-# Face_detect_and_recognise
-Face detecting and recognising with opencv and  tensorflow-keras
+# Face Detecting and Recognising 
+with opencv and  tensorflow-keras on Rasberry Pie 3-4
+
