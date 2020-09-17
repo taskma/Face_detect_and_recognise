@@ -1,5 +1,5 @@
 # Face Detecting and Recognising 
-Using Opencv and  Tensorflow-keras for capturing faces and deep learning on CNN
+Using Opencv and  Tensorflow-keras for capturing faces and Deep Learning on CNN
 
 The codes can running on  Rasberry Pie 3, Rasberry Pie 4 and PC (tested)
 
