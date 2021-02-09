@@ -1,7 +1,7 @@
 # Face Detecting and Recognising 
 Using Opencv and  Tensorflow-keras for capturing faces and Deep Learning on CNN
 
-The codes can running on  Rasberry Pie 3, Rasberry Pie 4 and PC (tested)
+The codes can running on  Rasberry Pi 3, Rasberry Pi 4 and PC (tested)
 
 Model accuracy is almost %98
 
